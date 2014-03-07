@@ -7,6 +7,7 @@ gem 'rails', '4.1.0.beta1'
 
 gem "pg", "~> 0.17.1", group: :production
 gem 'sqlite3',         group: :development
+gem 'unicorn'
 
 gem 'rails_12factor', group: :production
 
